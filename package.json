@@ -1,0 +1,19 @@
+{
+  "name": "ghcr_test",
+  "version": "1.0.0",
+  "description": "Testing ghcr",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirosavljevbranislav/ghcr_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirosavljevbranislav/ghcr_test/issues"
+  },
+  "homepage": "https://github.com/mirosavljevbranislav/ghcr_test#readme"
+}
